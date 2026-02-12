@@ -1,0 +1,5229 @@
+{
+  "timestamp": "2026-02-12T11:31:57.023945",
+  "db_verification": {
+    "songs_in_db": 21,
+    "expected": 21,
+    "missing_from_db": [],
+    "extra_in_db": [],
+    "all_uploaded": true,
+    "db_song_list": [
+      "Aawaara_Angaara",
+      "Barbaad_Saiyaara",
+      "California_Love",
+      "Challa",
+      "Deewaana",
+      "Dhurandhar",
+      "Ehsaas",
+      "Ek_Din_Teri_Raahon",
+      "GOAT",
+      "Gehra_Hua",
+      "Haule_Haule",
+      "Ishqa_Ve",
+      "Jai_Ho",
+      "Main_Yahaan_Hoon",
+      "Makhna",
+      "Meherbaan",
+      "Mi_Amor",
+      "Namo_Namo",
+      "Rangi_Saari",
+      "Softly",
+      "Tu_Hi_Haqeeqat"
+    ]
+  },
+  "summary": {
+    "remix": {
+      "total": 21,
+      "pass": 7,
+      "fail": 14,
+      "no_match": 0
+    },
+    "clips": {
+      "total": 252,
+      "pass": 77,
+      "fail": 175,
+      "no_match": 0
+    },
+    "overall": {
+      "total": 273,
+      "pass": 84,
+      "fail": 189
+    },
+    "remix_accuracy": "33.3%",
+    "clip_accuracy": "30.6%",
+    "overall_accuracy": "30.8%"
+  },
+  "per_song": {
+    "Aawaara_Angaara": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 11,
+      "clip_fail": 1,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 12,
+      "total_fail": 1
+    },
+    "Barbaad_Saiyaara": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 7,
+      "clip_fail": 5,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 7,
+      "total_fail": 6
+    },
+    "California_Love": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 12,
+      "clip_fail": 0,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 13,
+      "total_fail": 0
+    },
+    "Challa": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 1,
+      "clip_fail": 11,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 1,
+      "total_fail": 12
+    },
+    "Deewaana": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 1,
+      "clip_fail": 11,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 1,
+      "total_fail": 12
+    },
+    "Dhurandhar": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 10,
+      "clip_fail": 2,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 11,
+      "total_fail": 2
+    },
+    "Ehsaas": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Ek_Din_Teri_Raahon": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 10,
+      "clip_fail": 2,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 11,
+      "total_fail": 2
+    },
+    "GOAT": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Gehra_Hua": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 1,
+      "clip_fail": 11,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 1,
+      "total_fail": 12
+    },
+    "Haule_Haule": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 4,
+      "clip_fail": 8,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 5,
+      "total_fail": 8
+    },
+    "Ishqa_Ve": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Jai_Ho": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Main_Yahaan_Hoon": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 1,
+      "clip_fail": 11,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 1,
+      "total_fail": 12
+    },
+    "Makhna": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Meherbaan": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Mi_Amor": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 7,
+      "clip_fail": 5,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 8,
+      "total_fail": 5
+    },
+    "Namo_Namo": {
+      "remix_pass": 1,
+      "remix_fail": 0,
+      "remix_nomatch": 0,
+      "clip_pass": 12,
+      "clip_fail": 0,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 13,
+      "total_fail": 0
+    },
+    "Rangi_Saari": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Softly": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    },
+    "Tu_Hi_Haqeeqat": {
+      "remix_pass": 0,
+      "remix_fail": 1,
+      "remix_nomatch": 0,
+      "clip_pass": 0,
+      "clip_fail": 12,
+      "clip_nomatch": 0,
+      "total_tests": 13,
+      "total_pass": 0,
+      "total_fail": 13
+    }
+  },
+  "fingerprinted": [
+    "Aawaara_Angaara",
+    "Barbaad_Saiyaara",
+    "California_Love",
+    "Challa",
+    "Deewaana",
+    "Dhurandhar",
+    "Ehsaas",
+    "Ek_Din_Teri_Raahon",
+    "GOAT",
+    "Gehra_Hua",
+    "Haule_Haule",
+    "Ishqa_Ve",
+    "Jai_Ho",
+    "Main_Yahaan_Hoon",
+    "Makhna",
+    "Meherbaan",
+    "Mi_Amor",
+    "Namo_Namo",
+    "Rangi_Saari",
+    "Softly",
+    "Tu_Hi_Haqeeqat"
+  ],
+  "remix_tests": [
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/remix_1.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.04,
+      "hashes_matched": 4891,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.05,
+        "input_confidence": 0.22,
+        "hashes_matched": 8633,
+        "offset_seconds": 108.53
+      },
+      "time": 1.09,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Challa/remix/remix_1.mp3",
+      "expected": "Challa",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.08,
+      "hashes_matched": 15961,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.07,
+        "input_confidence": 0.26,
+        "hashes_matched": 11984,
+        "offset_seconds": 143.17
+      },
+      "time": 1.51,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Deewaana/remix/remix_1.mp3",
+      "expected": "Deewaana",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.09,
+      "hashes_matched": 14793,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.1,
+        "input_confidence": 0.27,
+        "hashes_matched": 19005,
+        "offset_seconds": 95.25
+      },
+      "time": 1.86,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/remix_1.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.03,
+      "hashes_matched": 4513,
+      "top2": {
+        "song_name": "Challa",
+        "confidence": 0.01,
+        "input_confidence": 0.07,
+        "hashes_matched": 1953,
+        "offset_seconds": 15.46
+      },
+      "time": 0.67,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/GOAT/remix/remix_1.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 210,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.01,
+        "input_confidence": 0.04,
+        "hashes_matched": 619,
+        "offset_seconds": -14.77
+      },
+      "time": 0.77,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/remix_1.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.05,
+      "hashes_matched": 4710,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.06,
+        "input_confidence": 0.08,
+        "hashes_matched": 4152,
+        "offset_seconds": 36.78
+      },
+      "time": 1.51,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/remix_1.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 227,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.03,
+        "hashes_matched": 119,
+        "offset_seconds": -14.16
+      },
+      "time": 0.32,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/remix_1.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.19,
+      "hashes_matched": 35443,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.18,
+        "input_confidence": 0.25,
+        "hashes_matched": 29055,
+        "offset_seconds": -8.73
+      },
+      "time": 3.15,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/remix_1.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Haule_Haule",
+      "confidence": 0.05,
+      "hashes_matched": 7572,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.05,
+        "input_confidence": 0.21,
+        "hashes_matched": 8744,
+        "offset_seconds": -29.35
+      },
+      "time": 1.24,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Makhna/remix/remix_1.mp3",
+      "expected": "Makhna",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 2226,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.01,
+        "input_confidence": 0.1,
+        "hashes_matched": 1093,
+        "offset_seconds": 109.83
+      },
+      "time": 0.38,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/remix_1.mp3",
+      "expected": "Meherbaan",
+      "matched": "GOAT",
+      "confidence": 0.01,
+      "hashes_matched": 932,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.02,
+        "input_confidence": 0.09,
+        "hashes_matched": 1242,
+        "offset_seconds": -27.96
+      },
+      "time": 0.49,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/remix_1.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.01,
+      "hashes_matched": 1830,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.05,
+        "hashes_matched": 1121,
+        "offset_seconds": 135.28
+      },
+      "time": 0.61,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Softly/remix/remix_1.mp3",
+      "expected": "Softly",
+      "matched": "Haule_Haule",
+      "confidence": 0.15,
+      "hashes_matched": 24657,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.15,
+        "input_confidence": 0.15,
+        "hashes_matched": 11418,
+        "offset_seconds": -8.92
+      },
+      "time": 2.01,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/remix_1.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.03,
+      "hashes_matched": 4086,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.04,
+        "input_confidence": 0.13,
+        "hashes_matched": 3018,
+        "offset_seconds": 70.64
+      },
+      "time": 0.73,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/remix_1.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.11,
+      "hashes_matched": 14083,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.11,
+        "input_confidence": 0.32,
+        "hashes_matched": 18124,
+        "offset_seconds": -9.94
+      },
+      "time": 2.3,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/California_Love/remix/remix_1.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.42,
+      "hashes_matched": 31059,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.18,
+        "input_confidence": 0.39,
+        "hashes_matched": 33570,
+        "offset_seconds": -1.39
+      },
+      "time": 2.26,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/remix_1.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.07,
+      "hashes_matched": 5603,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.07,
+        "input_confidence": 0.14,
+        "hashes_matched": 12471,
+        "offset_seconds": 27.03
+      },
+      "time": 1.58,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/remix_1.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.07,
+      "hashes_matched": 11602,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.06,
+        "input_confidence": 0.07,
+        "hashes_matched": 4382,
+        "offset_seconds": -13.98
+      },
+      "time": 1.88,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/remix_1.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Haule_Haule",
+      "confidence": 0.22,
+      "hashes_matched": 36575,
+      "top2": {
+        "song_name": "Namo_Namo",
+        "confidence": 0.15,
+        "input_confidence": 0.16,
+        "hashes_matched": 21848,
+        "offset_seconds": 75.0
+      },
+      "time": 3.49,
+      "status": "PASS",
+      "song": "Haule_Haule",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/remix_1.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.13,
+      "hashes_matched": 9312,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.09,
+        "input_confidence": 0.33,
+        "hashes_matched": 17718,
+        "offset_seconds": 48.39
+      },
+      "time": 1.38,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "remix"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/remix_1.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.17,
+      "hashes_matched": 24746,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.14,
+        "input_confidence": 0.18,
+        "hashes_matched": 22207,
+        "offset_seconds": -33.67
+      },
+      "time": 3.18,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "remix"
+    }
+  ],
+  "clip_tests": [
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_6.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 9,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 24,
+        "offset_seconds": 312.96
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_1.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 80,
+      "top2": {
+        "song_name": "Challa",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 83,
+        "offset_seconds": 77.37
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_11.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 542,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.25,
+        "hashes_matched": 708,
+        "offset_seconds": 144.06
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_12.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 609,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 528,
+        "offset_seconds": 153.11
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_4.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Challa",
+      "confidence": 0.0,
+      "hashes_matched": 95,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.33,
+        "hashes_matched": 275,
+        "offset_seconds": 37.11
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_9.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 350,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.41,
+        "hashes_matched": 641,
+        "offset_seconds": 150.65
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_1.mp3",
+      "expected": "Challa",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 289,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 340,
+        "offset_seconds": 43.61
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_10.mp3",
+      "expected": "Challa",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 367,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 214,
+        "offset_seconds": -0.05
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_11.mp3",
+      "expected": "Challa",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 534,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 350,
+        "offset_seconds": 185.76
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_12.mp3",
+      "expected": "Challa",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 331,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 328,
+        "offset_seconds": 107.28
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_2.mp3",
+      "expected": "Challa",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 377,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.35,
+        "hashes_matched": 775,
+        "offset_seconds": 124.32
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_3.mp3",
+      "expected": "Challa",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 471,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 577,
+        "offset_seconds": 214.74
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_5.mp3",
+      "expected": "Challa",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 723,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 229,
+        "offset_seconds": 58.89
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_6.mp3",
+      "expected": "Challa",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 311,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.28,
+        "hashes_matched": 432,
+        "offset_seconds": 260.99
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_7.mp3",
+      "expected": "Challa",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 351,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.17,
+        "hashes_matched": 377,
+        "offset_seconds": 108.2
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_8.mp3",
+      "expected": "Challa",
+      "matched": "Softly",
+      "confidence": 0.0,
+      "hashes_matched": 225,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.44,
+        "hashes_matched": 720,
+        "offset_seconds": 264.38
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_9.mp3",
+      "expected": "Challa",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 470,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.34,
+        "hashes_matched": 898,
+        "offset_seconds": 266.84
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_1.mp3",
+      "expected": "Deewaana",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 303,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 556,
+        "offset_seconds": 167.18
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_10.mp3",
+      "expected": "Deewaana",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 411,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 395,
+        "offset_seconds": 78.72
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_11.mp3",
+      "expected": "Deewaana",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 748,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 254,
+        "offset_seconds": 88.98
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_12.mp3",
+      "expected": "Deewaana",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 388,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 509,
+        "offset_seconds": -3.81
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_2.mp3",
+      "expected": "Deewaana",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1014,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 426,
+        "offset_seconds": 62.14
+      },
+      "time": 0.11,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_3.mp3",
+      "expected": "Deewaana",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 457,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 406,
+        "offset_seconds": 55.64
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_4.mp3",
+      "expected": "Deewaana",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1042,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.01,
+        "input_confidence": 0.12,
+        "hashes_matched": 472,
+        "offset_seconds": 168.3
+      },
+      "time": 0.12,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_5.mp3",
+      "expected": "Deewaana",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 927,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 473,
+        "offset_seconds": 204.8
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_7.mp3",
+      "expected": "Deewaana",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 166,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 465,
+        "offset_seconds": 13.89
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_8.mp3",
+      "expected": "Deewaana",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 143,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.16,
+        "hashes_matched": 304,
+        "offset_seconds": 271.81
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_9.mp3",
+      "expected": "Deewaana",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 644,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.17,
+        "hashes_matched": 420,
+        "offset_seconds": 104.3
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_11.mp3",
+      "expected": "Dhurandhar",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 272,
+      "top2": {
+        "song_name": "Dhurandhar",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 312,
+        "offset_seconds": 85.77
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_6.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Challa",
+      "confidence": 0.0,
+      "hashes_matched": 314,
+      "top2": {
+        "song_name": "Dhurandhar",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 295,
+        "offset_seconds": 52.85
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_1.mp3",
+      "expected": "Ehsaas",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.01,
+      "hashes_matched": 971,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.2,
+        "hashes_matched": 808,
+        "offset_seconds": 167.65
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_10.mp3",
+      "expected": "Ehsaas",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 272,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 355,
+        "offset_seconds": 271.77
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_11.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 496,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.05,
+        "hashes_matched": 148,
+        "offset_seconds": 113.73
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_12.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.01,
+      "hashes_matched": 832,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 504,
+        "offset_seconds": 133.7
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_2.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 332,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 309,
+        "offset_seconds": 191.52
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_3.mp3",
+      "expected": "Ehsaas",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 484,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 522,
+        "offset_seconds": 62.32
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_4.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 459,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 187,
+        "offset_seconds": 124.69
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_5.mp3",
+      "expected": "Ehsaas",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 398,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 489,
+        "offset_seconds": 126.97
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_6.mp3",
+      "expected": "Ehsaas",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 280,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 391,
+        "offset_seconds": 273.62
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_7.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 423,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.0,
+        "input_confidence": 0.05,
+        "hashes_matched": 126,
+        "offset_seconds": 122.46
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_8.mp3",
+      "expected": "Ehsaas",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 575,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.09,
+        "hashes_matched": 226,
+        "offset_seconds": 132.17
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ehsaas/remix/clips_1/clip_9.mp3",
+      "expected": "Ehsaas",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 197,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 401,
+        "offset_seconds": 126.08
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Ehsaas",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_11.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 201,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 393,
+        "offset_seconds": 15.46
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_2.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 375,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 388,
+        "offset_seconds": 307.62
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_1.mp3",
+      "expected": "GOAT",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 95,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 60,
+        "offset_seconds": 8.78
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_10.mp3",
+      "expected": "GOAT",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 68,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 43,
+        "offset_seconds": 26.47
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_11.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 31,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.17,
+        "hashes_matched": 128,
+        "offset_seconds": 130.03
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_12.mp3",
+      "expected": "GOAT",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 13,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 46,
+        "offset_seconds": 32.51
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_2.mp3",
+      "expected": "GOAT",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 104,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.42,
+        "hashes_matched": 106,
+        "offset_seconds": 42.59
+      },
+      "time": 0.02,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_3.mp3",
+      "expected": "GOAT",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 144,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 37,
+        "offset_seconds": 111.83
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_4.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 15,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 43,
+        "offset_seconds": 58.89
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_5.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 28,
+      "top2": {
+        "song_name": "Dhurandhar",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 21,
+        "offset_seconds": 57.35
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_6.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 50,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 131,
+        "offset_seconds": 27.21
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_7.mp3",
+      "expected": "GOAT",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 22,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 90,
+        "offset_seconds": 229.97
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_8.mp3",
+      "expected": "GOAT",
+      "matched": "Mi_Amor",
+      "confidence": 0.0,
+      "hashes_matched": 66,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 90,
+        "offset_seconds": 131.05
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/GOAT/remix/clips_1/clip_9.mp3",
+      "expected": "GOAT",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 58,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 146,
+        "offset_seconds": 236.94
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "GOAT",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_1.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 283,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.01,
+        "input_confidence": 0.18,
+        "hashes_matched": 491,
+        "offset_seconds": 117.68
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_10.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Haule_Haule",
+      "confidence": 0.0,
+      "hashes_matched": 462,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 392,
+        "offset_seconds": 200.34
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_11.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Haule_Haule",
+      "confidence": 0.0,
+      "hashes_matched": 198,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 190,
+        "offset_seconds": 10.4
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_12.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 323,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.26,
+        "hashes_matched": 367,
+        "offset_seconds": 2.23
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_2.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 460,
+      "top2": {
+        "song_name": "Challa",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 288,
+        "offset_seconds": 228.21
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_3.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 254,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.3,
+        "hashes_matched": 512,
+        "offset_seconds": 38.36
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_4.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Meherbaan",
+      "confidence": 0.0,
+      "hashes_matched": 115,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 215,
+        "offset_seconds": 106.16
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_5.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 394,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 579,
+        "offset_seconds": 66.92
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_6.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Meherbaan",
+      "confidence": 0.0,
+      "hashes_matched": 73,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.16,
+        "hashes_matched": 204,
+        "offset_seconds": 33.16
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_8.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 436,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 582,
+        "offset_seconds": 25.96
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_9.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Haule_Haule",
+      "confidence": 0.0,
+      "hashes_matched": 721,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.32,
+        "hashes_matched": 911,
+        "offset_seconds": 168.34
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_1.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 51,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.67,
+        "hashes_matched": 59,
+        "offset_seconds": 238.93
+      },
+      "time": 0.02,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_10.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1567,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.01,
+        "input_confidence": 0.21,
+        "hashes_matched": 863,
+        "offset_seconds": 107.65
+      },
+      "time": 0.13,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_11.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Challa",
+      "confidence": 0.0,
+      "hashes_matched": 623,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.3,
+        "hashes_matched": 1102,
+        "offset_seconds": 180.6
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_12.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 849,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 512,
+        "offset_seconds": 219.99
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_3.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 2182,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.45,
+        "hashes_matched": 1978,
+        "offset_seconds": 137.74
+      },
+      "time": 0.14,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_5.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Deewaana",
+      "confidence": 0.01,
+      "hashes_matched": 1030,
+      "top2": {
+        "song_name": "Namo_Namo",
+        "confidence": 0.01,
+        "input_confidence": 0.22,
+        "hashes_matched": 804,
+        "offset_seconds": 237.63
+      },
+      "time": 0.13,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_6.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1879,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.34,
+        "hashes_matched": 1587,
+        "offset_seconds": 35.48
+      },
+      "time": 0.15,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_8.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 441,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.27,
+        "hashes_matched": 1102,
+        "offset_seconds": 31.11
+      },
+      "time": 0.12,
+      "status": "FAIL",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_1.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 75,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 96,
+        "offset_seconds": 183.67
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_10.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 72,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 116,
+        "offset_seconds": 182.6
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_11.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 58,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 29,
+        "offset_seconds": 116.19
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_12.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 65,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 155,
+        "offset_seconds": 179.72
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_2.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 54,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 93,
+        "offset_seconds": 181.72
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_3.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 26,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 90,
+        "offset_seconds": 188.22
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_4.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 59,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 134,
+        "offset_seconds": 180.09
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_5.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 117,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 77,
+        "offset_seconds": 104.49
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_6.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 49,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 69,
+        "offset_seconds": 186.87
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_7.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 66,
+      "top2": {
+        "song_name": "Challa",
+        "confidence": 0.0,
+        "input_confidence": 0.04,
+        "hashes_matched": 18,
+        "offset_seconds": 165.0
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_8.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 17,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.09,
+        "hashes_matched": 39,
+        "offset_seconds": 13.1
+      },
+      "time": 0.03,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ishqa_Ve/remix/clips_1/clip_9.mp3",
+      "expected": "Ishqa_Ve",
+      "matched": "Rangi_Saari",
+      "confidence": 0.0,
+      "hashes_matched": 79,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.04,
+        "hashes_matched": 30,
+        "offset_seconds": 206.52
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Ishqa_Ve",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_1.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 434,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 252,
+        "offset_seconds": 69.1
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_10.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 299,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.3,
+        "hashes_matched": 623,
+        "offset_seconds": 56.24
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_11.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 310,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 145,
+        "offset_seconds": 75.6
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_12.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 504,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 473,
+        "offset_seconds": 191.89
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_2.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 355,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.54,
+        "hashes_matched": 1120,
+        "offset_seconds": 216.08
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_3.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 394,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.27,
+        "hashes_matched": 943,
+        "offset_seconds": 243.95
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_4.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1090,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 463,
+        "offset_seconds": 67.11
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_5.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 643,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.19,
+        "hashes_matched": 810,
+        "offset_seconds": 321.88
+      },
+      "time": 0.12,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_6.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 867,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.29,
+        "hashes_matched": 334,
+        "offset_seconds": 289.79
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_7.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 222,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 243,
+        "offset_seconds": 304.6
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_8.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 796,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 367,
+        "offset_seconds": 157.11
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Jai_Ho/remix/clips_1/clip_9.mp3",
+      "expected": "Jai_Ho",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 227,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.17,
+        "hashes_matched": 318,
+        "offset_seconds": 158.96
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Jai_Ho",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_1.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 515,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 253,
+        "offset_seconds": 176.19
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_10.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 256,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.27,
+        "hashes_matched": 505,
+        "offset_seconds": 205.22
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_11.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 453,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 475,
+        "offset_seconds": 113.22
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_12.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 502,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.25,
+        "hashes_matched": 516,
+        "offset_seconds": 73.1
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_2.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 277,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.17,
+        "hashes_matched": 464,
+        "offset_seconds": 105.6
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_3.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 638,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 407,
+        "offset_seconds": 188.78
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_4.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 315,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.16,
+        "hashes_matched": 462,
+        "offset_seconds": 3.25
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_6.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 632,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 253,
+        "offset_seconds": 55.5
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_7.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 215,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 455,
+        "offset_seconds": 165.88
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_8.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 270,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 359,
+        "offset_seconds": 222.08
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_9.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 268,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 191,
+        "offset_seconds": 57.35
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_1.mp3",
+      "expected": "Makhna",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 279,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.09,
+        "hashes_matched": 220,
+        "offset_seconds": 37.99
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_10.mp3",
+      "expected": "Makhna",
+      "matched": "Softly",
+      "confidence": 0.0,
+      "hashes_matched": 102,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 194,
+        "offset_seconds": 226.07
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_11.mp3",
+      "expected": "Makhna",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 557,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 441,
+        "offset_seconds": 81.87
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_12.mp3",
+      "expected": "Makhna",
+      "matched": "Meherbaan",
+      "confidence": 0.0,
+      "hashes_matched": 193,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 111,
+        "offset_seconds": 142.34
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_2.mp3",
+      "expected": "Makhna",
+      "matched": "Haule_Haule",
+      "confidence": 0.0,
+      "hashes_matched": 309,
+      "top2": {
+        "song_name": "Meherbaan",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 202,
+        "offset_seconds": 306.78
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_3.mp3",
+      "expected": "Makhna",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 236,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 118,
+        "offset_seconds": 208.84
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_4.mp3",
+      "expected": "Makhna",
+      "matched": "Meherbaan",
+      "confidence": 0.0,
+      "hashes_matched": 265,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.3,
+        "hashes_matched": 605,
+        "offset_seconds": 259.83
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_5.mp3",
+      "expected": "Makhna",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 151,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 188,
+        "offset_seconds": 41.94
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_6.mp3",
+      "expected": "Makhna",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 148,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.27,
+        "hashes_matched": 367,
+        "offset_seconds": -2.65
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_7.mp3",
+      "expected": "Makhna",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 293,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 157,
+        "offset_seconds": 11.52
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_8.mp3",
+      "expected": "Makhna",
+      "matched": "Softly",
+      "confidence": 0.0,
+      "hashes_matched": 100,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 126,
+        "offset_seconds": 267.87
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Makhna/remix/clips_1/clip_9.mp3",
+      "expected": "Makhna",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 97,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 86,
+        "offset_seconds": 74.07
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Makhna",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_1.mp3",
+      "expected": "Meherbaan",
+      "matched": "Challa",
+      "confidence": 0.0,
+      "hashes_matched": 267,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 251,
+        "offset_seconds": 79.32
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_10.mp3",
+      "expected": "Meherbaan",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.0,
+      "hashes_matched": 437,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 167,
+        "offset_seconds": 124.32
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_11.mp3",
+      "expected": "Meherbaan",
+      "matched": "Mi_Amor",
+      "confidence": 0.0,
+      "hashes_matched": 205,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 212,
+        "offset_seconds": 29.72
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_12.mp3",
+      "expected": "Meherbaan",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 124,
+      "top2": {
+        "song_name": "Meherbaan",
+        "confidence": 0.0,
+        "input_confidence": 0.16,
+        "hashes_matched": 177,
+        "offset_seconds": 52.38
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_2.mp3",
+      "expected": "Meherbaan",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 92,
+      "top2": {
+        "song_name": "Meherbaan",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 170,
+        "offset_seconds": 237.87
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_3.mp3",
+      "expected": "Meherbaan",
+      "matched": "Ehsaas",
+      "confidence": 0.0,
+      "hashes_matched": 134,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.01,
+        "input_confidence": 0.29,
+        "hashes_matched": 395,
+        "offset_seconds": 99.8
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_4.mp3",
+      "expected": "Meherbaan",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 189,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 343,
+        "offset_seconds": 79.13
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_5.mp3",
+      "expected": "Meherbaan",
+      "matched": "California_Love",
+      "confidence": 0.0,
+      "hashes_matched": 135,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 200,
+        "offset_seconds": 44.44
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_6.mp3",
+      "expected": "Meherbaan",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 190,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 496,
+        "offset_seconds": 69.29
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_7.mp3",
+      "expected": "Meherbaan",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 288,
+      "top2": {
+        "song_name": "Mi_Amor",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 141,
+        "offset_seconds": 45.51
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_8.mp3",
+      "expected": "Meherbaan",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 261,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.24,
+        "hashes_matched": 459,
+        "offset_seconds": 213.02
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Meherbaan/remix/clips_1/clip_9.mp3",
+      "expected": "Meherbaan",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 262,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 254,
+        "offset_seconds": 183.53
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Meherbaan",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_12.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 655,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 325,
+        "offset_seconds": 13.33
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_2.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.01,
+      "hashes_matched": 862,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.33,
+        "hashes_matched": 1406,
+        "offset_seconds": 50.39
+      },
+      "time": 0.11,
+      "status": "FAIL",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_3.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.01,
+      "hashes_matched": 1723,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.01,
+        "input_confidence": 0.16,
+        "hashes_matched": 829,
+        "offset_seconds": 272.32
+      },
+      "time": 0.13,
+      "status": "FAIL",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_6.mp3",
+      "expected": "Mi_Amor",
+      "matched": "California_Love",
+      "confidence": 0.01,
+      "hashes_matched": 450,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 522,
+        "offset_seconds": 284.35
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_8.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.01,
+      "hashes_matched": 1285,
+      "top2": {
+        "song_name": "Mi_Amor",
+        "confidence": 0.01,
+        "input_confidence": 0.29,
+        "hashes_matched": 1031,
+        "offset_seconds": 55.08
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_1.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 151,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 85,
+        "offset_seconds": 236.19
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_10.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 220,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 108,
+        "offset_seconds": 202.9
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_11.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 242,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 321,
+        "offset_seconds": 137.74
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_12.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 251,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.13,
+        "hashes_matched": 155,
+        "offset_seconds": 97.57
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_2.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 142,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.09,
+        "hashes_matched": 207,
+        "offset_seconds": 17.55
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_3.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 365,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 158,
+        "offset_seconds": 209.17
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_4.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 144,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 101,
+        "offset_seconds": 130.31
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_5.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 180,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 127,
+        "offset_seconds": 232.57
+      },
+      "time": 0.04,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_6.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 176,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 320,
+        "offset_seconds": 2.93
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_7.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 292,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 172,
+        "offset_seconds": 29.21
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_8.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 178,
+      "top2": {
+        "song_name": "Challa",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 161,
+        "offset_seconds": 70.31
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Rangi_Saari/remix/clips_1/clip_9.mp3",
+      "expected": "Rangi_Saari",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 294,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 191,
+        "offset_seconds": 171.22
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Rangi_Saari",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_1.mp3",
+      "expected": "Softly",
+      "matched": "California_Love",
+      "confidence": 0.01,
+      "hashes_matched": 963,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.02,
+        "input_confidence": 0.46,
+        "hashes_matched": 2537,
+        "offset_seconds": 234.61
+      },
+      "time": 0.2,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_10.mp3",
+      "expected": "Softly",
+      "matched": "Haule_Haule",
+      "confidence": 0.02,
+      "hashes_matched": 2760,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.01,
+        "input_confidence": 0.26,
+        "hashes_matched": 1475,
+        "offset_seconds": 17.46
+      },
+      "time": 0.19,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_11.mp3",
+      "expected": "Softly",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.01,
+      "hashes_matched": 2651,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.37,
+        "hashes_matched": 1813,
+        "offset_seconds": 84.75
+      },
+      "time": 0.16,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_12.mp3",
+      "expected": "Softly",
+      "matched": "California_Love",
+      "confidence": 0.01,
+      "hashes_matched": 510,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.01,
+        "input_confidence": 0.28,
+        "hashes_matched": 699,
+        "offset_seconds": 102.26
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_2.mp3",
+      "expected": "Softly",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1050,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.41,
+        "hashes_matched": 2075,
+        "offset_seconds": 214.74
+      },
+      "time": 0.17,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_3.mp3",
+      "expected": "Softly",
+      "matched": "Haule_Haule",
+      "confidence": 0.01,
+      "hashes_matched": 1070,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 591,
+        "offset_seconds": 110.71
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_4.mp3",
+      "expected": "Softly",
+      "matched": "Ishqa_Ve",
+      "confidence": 0.0,
+      "hashes_matched": 398,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 526,
+        "offset_seconds": 16.49
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_5.mp3",
+      "expected": "Softly",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 475,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.52,
+        "hashes_matched": 1234,
+        "offset_seconds": 106.95
+      },
+      "time": 0.08,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_6.mp3",
+      "expected": "Softly",
+      "matched": "California_Love",
+      "confidence": 0.01,
+      "hashes_matched": 625,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.01,
+        "input_confidence": 0.21,
+        "hashes_matched": 692,
+        "offset_seconds": 203.41
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_7.mp3",
+      "expected": "Softly",
+      "matched": "GOAT",
+      "confidence": 0.01,
+      "hashes_matched": 881,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.42,
+        "hashes_matched": 1822,
+        "offset_seconds": 188.59
+      },
+      "time": 0.13,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_8.mp3",
+      "expected": "Softly",
+      "matched": "California_Love",
+      "confidence": 0.01,
+      "hashes_matched": 794,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.46,
+        "hashes_matched": 1814,
+        "offset_seconds": 138.25
+      },
+      "time": 0.13,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Softly/remix/clips_1/clip_9.mp3",
+      "expected": "Softly",
+      "matched": "Tu_Hi_Haqeeqat",
+      "confidence": 0.01,
+      "hashes_matched": 2090,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.01,
+        "input_confidence": 0.16,
+        "hashes_matched": 661,
+        "offset_seconds": 136.49
+      },
+      "time": 0.12,
+      "status": "FAIL",
+      "song": "Softly",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_1.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "GOAT",
+      "confidence": 0.01,
+      "hashes_matched": 474,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.34,
+        "hashes_matched": 978,
+        "offset_seconds": 86.38
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_10.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 622,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.38,
+        "hashes_matched": 1055,
+        "offset_seconds": 28.05
+      },
+      "time": 0.1,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_11.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 320,
+      "top2": {
+        "song_name": "California_Love",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 308,
+        "offset_seconds": 106.44
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_12.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 392,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.24,
+        "hashes_matched": 432,
+        "offset_seconds": 184.69
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_2.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 244,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.2,
+        "hashes_matched": 247,
+        "offset_seconds": 5.53
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_3.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "GOAT",
+      "confidence": 0.0,
+      "hashes_matched": 310,
+      "top2": {
+        "song_name": "Mi_Amor",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 198,
+        "offset_seconds": 62.09
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_4.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 304,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.36,
+        "hashes_matched": 602,
+        "offset_seconds": 111.04
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_5.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Haule_Haule",
+      "confidence": 0.0,
+      "hashes_matched": 289,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 152,
+        "offset_seconds": 148.98
+      },
+      "time": 0.05,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_6.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 338,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 218,
+        "offset_seconds": 172.2
+      },
+      "time": 0.07,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_7.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 482,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.42,
+        "hashes_matched": 1030,
+        "offset_seconds": 179.54
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_8.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 323,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.22,
+        "hashes_matched": 336,
+        "offset_seconds": 105.37
+      },
+      "time": 0.06,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Tu_Hi_Haqeeqat/remix/clips_1/clip_9.mp3",
+      "expected": "Tu_Hi_Haqeeqat",
+      "matched": "Meherbaan",
+      "confidence": 0.0,
+      "hashes_matched": 317,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 313,
+        "offset_seconds": 195.09
+      },
+      "time": 0.09,
+      "status": "FAIL",
+      "song": "Tu_Hi_Haqeeqat",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_1.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1329,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.01,
+        "input_confidence": 0.2,
+        "hashes_matched": 651,
+        "offset_seconds": 49.92
+      },
+      "time": 0.11,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_10.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1270,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.56,
+        "hashes_matched": 1929,
+        "offset_seconds": 119.26
+      },
+      "time": 0.12,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_11.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1068,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.65,
+        "hashes_matched": 1376,
+        "offset_seconds": 76.63
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_12.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 995,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.46,
+        "hashes_matched": 1082,
+        "offset_seconds": 240.84
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_2.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1179,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.47,
+        "hashes_matched": 1317,
+        "offset_seconds": 154.23
+      },
+      "time": 0.11,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_3.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 769,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.4,
+        "hashes_matched": 779,
+        "offset_seconds": 77.69
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_4.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 689,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.56,
+        "hashes_matched": 971,
+        "offset_seconds": 149.44
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_5.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 827,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.47,
+        "hashes_matched": 926,
+        "offset_seconds": 115.22
+      },
+      "time": 0.08,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_7.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.0,
+      "hashes_matched": 601,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.31,
+        "hashes_matched": 446,
+        "offset_seconds": 328.7
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_8.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1151,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.33,
+        "hashes_matched": 1007,
+        "offset_seconds": 212.79
+      },
+      "time": 0.11,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Aawaara_Angaara/remix/clips_1/clip_9.mp3",
+      "expected": "Aawaara_Angaara",
+      "matched": "Aawaara_Angaara",
+      "confidence": 0.01,
+      "hashes_matched": 1041,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.53,
+        "hashes_matched": 1305,
+        "offset_seconds": 91.58
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Aawaara_Angaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_10.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 518,
+      "top2": {
+        "song_name": "Namo_Namo",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 230,
+        "offset_seconds": -3.16
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_2.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 383,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 108,
+        "offset_seconds": 19.09
+      },
+      "time": 0.04,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_3.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 335,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 122,
+        "offset_seconds": 139.88
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_5.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 376,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.25,
+        "hashes_matched": 181,
+        "offset_seconds": 116.84
+      },
+      "time": 0.04,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_6.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 465,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 92,
+        "offset_seconds": 103.1
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_7.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 783,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 442,
+        "offset_seconds": 41.01
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Barbaad_Saiyaara/remix/clips_1/clip_8.mp3",
+      "expected": "Barbaad_Saiyaara",
+      "matched": "Barbaad_Saiyaara",
+      "confidence": 0.0,
+      "hashes_matched": 618,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 232,
+        "offset_seconds": 40.96
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Barbaad_Saiyaara",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_1.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.07,
+      "hashes_matched": 5066,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.31,
+        "hashes_matched": 1179,
+        "offset_seconds": 205.4
+      },
+      "time": 0.13,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_10.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.11,
+      "hashes_matched": 7922,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.02,
+        "input_confidence": 0.67,
+        "hashes_matched": 3505,
+        "offset_seconds": 110.76
+      },
+      "time": 0.18,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_11.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.09,
+      "hashes_matched": 6438,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.01,
+        "input_confidence": 0.32,
+        "hashes_matched": 1508,
+        "offset_seconds": 64.46
+      },
+      "time": 0.15,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_12.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.14,
+      "hashes_matched": 10168,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.03,
+        "input_confidence": 0.7,
+        "hashes_matched": 4938,
+        "offset_seconds": 226.67
+      },
+      "time": 0.23,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_2.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.06,
+      "hashes_matched": 4340,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.46,
+        "hashes_matched": 1747,
+        "offset_seconds": 116.33
+      },
+      "time": 0.12,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_3.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.12,
+      "hashes_matched": 8726,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.02,
+        "input_confidence": 0.29,
+        "hashes_matched": 2056,
+        "offset_seconds": 199.13
+      },
+      "time": 0.24,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_4.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.11,
+      "hashes_matched": 8124,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.42,
+        "hashes_matched": 2039,
+        "offset_seconds": 212.32
+      },
+      "time": 0.16,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_5.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.09,
+      "hashes_matched": 6506,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.01,
+        "input_confidence": 0.3,
+        "hashes_matched": 1188,
+        "offset_seconds": 66.13
+      },
+      "time": 0.13,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_6.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.11,
+      "hashes_matched": 8433,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.02,
+        "input_confidence": 0.62,
+        "hashes_matched": 3382,
+        "offset_seconds": 59.68
+      },
+      "time": 0.18,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_7.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.12,
+      "hashes_matched": 9054,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.02,
+        "input_confidence": 0.63,
+        "hashes_matched": 4612,
+        "offset_seconds": 161.89
+      },
+      "time": 0.24,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_8.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.03,
+      "hashes_matched": 1986,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 310,
+        "offset_seconds": 311.24
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/California_Love/remix/clips_1/clip_9.mp3",
+      "expected": "California_Love",
+      "matched": "California_Love",
+      "confidence": 0.09,
+      "hashes_matched": 6606,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.01,
+        "input_confidence": 0.22,
+        "hashes_matched": 911,
+        "offset_seconds": 37.29
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "California_Love",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Challa/remix/clips_1/clip_4.mp3",
+      "expected": "Challa",
+      "matched": "Challa",
+      "confidence": 0.0,
+      "hashes_matched": 282,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.3,
+        "hashes_matched": 538,
+        "offset_seconds": 98.45
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Challa",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Deewaana/remix/clips_1/clip_6.mp3",
+      "expected": "Deewaana",
+      "matched": "Deewaana",
+      "confidence": 0.0,
+      "hashes_matched": 443,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 673,
+        "offset_seconds": 92.18
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Deewaana",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_1.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 563,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.13,
+        "hashes_matched": 937,
+        "offset_seconds": 199.32
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_10.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 226,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 469,
+        "offset_seconds": 269.44
+      },
+      "time": 0.08,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_12.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 360,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 641,
+        "offset_seconds": 233.13
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_2.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 419,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 579,
+        "offset_seconds": 232.85
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_3.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 413,
+      "top2": {
+        "song_name": "Ishqa_Ve",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 352,
+        "offset_seconds": 144.15
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_4.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 604,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.21,
+        "hashes_matched": 1473,
+        "offset_seconds": 145.36
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_5.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 440,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 783,
+        "offset_seconds": 290.02
+      },
+      "time": 0.13,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_7.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 162,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 237,
+        "offset_seconds": 204.38
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_8.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.01,
+      "hashes_matched": 550,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 761,
+        "offset_seconds": 86.42
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Dhurandhar/remix/clips_1/clip_9.mp3",
+      "expected": "Dhurandhar",
+      "matched": "Dhurandhar",
+      "confidence": 0.0,
+      "hashes_matched": 327,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 504,
+        "offset_seconds": 146.84
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Dhurandhar",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_1.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 334,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.09,
+        "hashes_matched": 146,
+        "offset_seconds": 40.68
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_10.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 679,
+      "top2": {
+        "song_name": "Makhna",
+        "confidence": 0.0,
+        "input_confidence": 0.08,
+        "hashes_matched": 160,
+        "offset_seconds": 144.99
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_12.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 154,
+      "top2": {
+        "song_name": "GOAT",
+        "confidence": 0.0,
+        "input_confidence": 0.06,
+        "hashes_matched": 77,
+        "offset_seconds": 188.64
+      },
+      "time": 0.04,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_3.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 419,
+      "top2": {
+        "song_name": "Main_Yahaan_Hoon",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 215,
+        "offset_seconds": 15.09
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_4.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 612,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.21,
+        "hashes_matched": 482,
+        "offset_seconds": 243.16
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_5.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 557,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 282,
+        "offset_seconds": 341.7
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_6.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 780,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 535,
+        "offset_seconds": 179.86
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_7.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 424,
+      "top2": {
+        "song_name": "Deewaana",
+        "confidence": 0.0,
+        "input_confidence": 0.12,
+        "hashes_matched": 190,
+        "offset_seconds": 247.66
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_8.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 694,
+      "top2": {
+        "song_name": "Meherbaan",
+        "confidence": 0.0,
+        "input_confidence": 0.11,
+        "hashes_matched": 320,
+        "offset_seconds": 27.59
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Ek_Din_Teri_Raahon/remix/clips_1/clip_9.mp3",
+      "expected": "Ek_Din_Teri_Raahon",
+      "matched": "Ek_Din_Teri_Raahon",
+      "confidence": 0.0,
+      "hashes_matched": 433,
+      "top2": {
+        "song_name": "Softly",
+        "confidence": 0.0,
+        "input_confidence": 0.1,
+        "hashes_matched": 209,
+        "offset_seconds": 72.77
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Ek_Din_Teri_Raahon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Gehra_Hua/remix/clips_1/clip_7.mp3",
+      "expected": "Gehra_Hua",
+      "matched": "Gehra_Hua",
+      "confidence": 0.0,
+      "hashes_matched": 385,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 275,
+        "offset_seconds": 8.27
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Gehra_Hua",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_2.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Haule_Haule",
+      "confidence": 0.01,
+      "hashes_matched": 899,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.49,
+        "hashes_matched": 1355,
+        "offset_seconds": 167.46
+      },
+      "time": 0.08,
+      "status": "PASS",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_4.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Haule_Haule",
+      "confidence": 0.01,
+      "hashes_matched": 1220,
+      "top2": {
+        "song_name": "Rangi_Saari",
+        "confidence": 0.01,
+        "input_confidence": 0.13,
+        "hashes_matched": 561,
+        "offset_seconds": 171.6
+      },
+      "time": 0.12,
+      "status": "PASS",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_7.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Haule_Haule",
+      "confidence": 0.01,
+      "hashes_matched": 1459,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.45,
+        "hashes_matched": 2042,
+        "offset_seconds": 183.3
+      },
+      "time": 0.13,
+      "status": "PASS",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Haule_Haule/remix/clips_1/clip_9.mp3",
+      "expected": "Haule_Haule",
+      "matched": "Haule_Haule",
+      "confidence": 0.01,
+      "hashes_matched": 2226,
+      "top2": {
+        "song_name": "Ehsaas",
+        "confidence": 0.01,
+        "input_confidence": 0.13,
+        "hashes_matched": 718,
+        "offset_seconds": 190.96
+      },
+      "time": 0.17,
+      "status": "PASS",
+      "song": "Haule_Haule",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Main_Yahaan_Hoon/remix/clips_1/clip_5.mp3",
+      "expected": "Main_Yahaan_Hoon",
+      "matched": "Main_Yahaan_Hoon",
+      "confidence": 0.0,
+      "hashes_matched": 534,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.26,
+        "hashes_matched": 931,
+        "offset_seconds": 196.72
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Main_Yahaan_Hoon",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_1.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.01,
+      "hashes_matched": 625,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.38,
+        "hashes_matched": 1397,
+        "offset_seconds": 182.93
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_10.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.02,
+      "hashes_matched": 1477,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.34,
+        "hashes_matched": 1572,
+        "offset_seconds": 238.89
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_11.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.02,
+      "hashes_matched": 1147,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.01,
+        "input_confidence": 0.45,
+        "hashes_matched": 1670,
+        "offset_seconds": 113.36
+      },
+      "time": 0.11,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_4.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.01,
+      "hashes_matched": 931,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.26,
+        "hashes_matched": 889,
+        "offset_seconds": 221.01
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_5.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.02,
+      "hashes_matched": 1453,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.25,
+        "hashes_matched": 1165,
+        "offset_seconds": 214.65
+      },
+      "time": 0.14,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_7.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.02,
+      "hashes_matched": 1288,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.29,
+        "hashes_matched": 892,
+        "offset_seconds": 308.78
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Mi_Amor/remix/clips_1/clip_9.mp3",
+      "expected": "Mi_Amor",
+      "matched": "Mi_Amor",
+      "confidence": 0.01,
+      "hashes_matched": 953,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.18,
+        "hashes_matched": 532,
+        "offset_seconds": 30.93
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Mi_Amor",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_1.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 1816,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.16,
+        "hashes_matched": 476,
+        "offset_seconds": 260.25
+      },
+      "time": 0.08,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_10.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 1116,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.25,
+        "hashes_matched": 835,
+        "offset_seconds": 26.42
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_11.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 660,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 670,
+        "offset_seconds": 235.17
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_12.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 858,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.0,
+        "input_confidence": 0.19,
+        "hashes_matched": 396,
+        "offset_seconds": 229.97
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_2.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 882,
+      "top2": {
+        "song_name": "Aawaara_Angaara",
+        "confidence": 0.0,
+        "input_confidence": 0.14,
+        "hashes_matched": 425,
+        "offset_seconds": 94.09
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_3.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 2038,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.01,
+        "input_confidence": 0.23,
+        "hashes_matched": 872,
+        "offset_seconds": 25.22
+      },
+      "time": 0.1,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_4.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 545,
+      "top2": {
+        "song_name": "Ek_Din_Teri_Raahon",
+        "confidence": 0.0,
+        "input_confidence": 0.28,
+        "hashes_matched": 459,
+        "offset_seconds": 258.07
+      },
+      "time": 0.05,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_5.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.0,
+      "hashes_matched": 712,
+      "top2": {
+        "song_name": "Meherbaan",
+        "confidence": 0.0,
+        "input_confidence": 0.15,
+        "hashes_matched": 343,
+        "offset_seconds": 27.21
+      },
+      "time": 0.07,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_6.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 1336,
+      "top2": {
+        "song_name": "Gehra_Hua",
+        "confidence": 0.0,
+        "input_confidence": 0.07,
+        "hashes_matched": 141,
+        "offset_seconds": 28.51
+      },
+      "time": 0.06,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_7.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 789,
+      "top2": {
+        "song_name": "Haule_Haule",
+        "confidence": 0.01,
+        "input_confidence": 0.3,
+        "hashes_matched": 1007,
+        "offset_seconds": 42.03
+      },
+      "time": 0.11,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_8.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 945,
+      "top2": {
+        "song_name": "Barbaad_Saiyaara",
+        "confidence": 0.01,
+        "input_confidence": 0.23,
+        "hashes_matched": 919,
+        "offset_seconds": 96.83
+      },
+      "time": 0.12,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    },
+    {
+      "file": "dataset/Namo_Namo/remix/clips_1/clip_9.mp3",
+      "expected": "Namo_Namo",
+      "matched": "Namo_Namo",
+      "confidence": 0.01,
+      "hashes_matched": 1576,
+      "top2": {
+        "song_name": "Tu_Hi_Haqeeqat",
+        "confidence": 0.0,
+        "input_confidence": 0.23,
+        "hashes_matched": 912,
+        "offset_seconds": 261.6
+      },
+      "time": 0.09,
+      "status": "PASS",
+      "song": "Namo_Namo",
+      "type": "clip"
+    }
+  ]
+}
