@@ -15,6 +15,7 @@ services:
     volumes:
       - .:/code
       - ../music:/code/music
+      - ../dataset:/code/dataset
     depends_on:
       - db
     networks:
