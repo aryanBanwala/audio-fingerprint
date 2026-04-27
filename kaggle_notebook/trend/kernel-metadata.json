@@ -1,0 +1,17 @@
+{
+  "id": "aryanbanwala97/neuralfp-btp-trend-analysis",
+  "title": "NeuralFP BTP Trend Analysis",
+  "code_file": "inference_trend.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "aryanbanwala97/audio-fp-indian-music-btp"
+  ],
+  "kernel_sources": [
+    "aryanbanwala97/neuralfp-btp-pipeline-10ep-v2"
+  ],
+  "competition_sources": []
+}

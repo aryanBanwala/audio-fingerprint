@@ -1,0 +1,11 @@
+{
+  "title": "Audio FP Indian Music BTP",
+  "id": "aryanbanwala97/audio-fp-indian-music-btp",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "isPrivate": true,
+  "description": "Custom dataset for B.Tech Project-II at DTU CSE — 21 Hindi/Bollywood songs. Each song has: original.mp3, remix/remix_1.mp3 (modified version), and remix/clips_1/clip_*.mp3 (12 short clips). Used to evaluate audio fingerprinting libraries on Indian music."
+}

@@ -33,4 +33,21 @@ dejavu/dejavu.cnf
 *.tmp
 *.log
 
-dataset (songs)
+# Audio files (binary, tracked separately via Kaggle dataset)
+dataset/*/
+music/
+
+# Cloned external repos (can be re-cloned)
+NeuralFP/
+
+# Kaggle notebook generated outputs and local logs
+kaggle_notebook/output/
+kaggle_notebook/runs/
+kaggle_notebook/*/full_pipeline.ipynb
+kaggle_notebook/*/inference_trend.ipynb
+
+# Wandb API key (NEVER commit)
+wandkey.txt
+
+# Trained model checkpoints (large binary, regeneratable)
+models/

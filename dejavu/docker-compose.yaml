@@ -16,6 +16,7 @@ services:
       - .:/code
       - ../music:/code/music
       - ../dataset:/code/dataset
+      - ../scripts:/code/scripts
     depends_on:
       - db
     networks:

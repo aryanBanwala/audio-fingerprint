@@ -1,0 +1,9 @@
+epoch,overall_pass,overall_total,overall_acc_pct,full_acc_pct,clips_acc_pct,note
+0,74,273,27.1,28.6,27.0,random init (v2)
+1,83,273,30.4,38.1,29.8,v3 reference
+2,71,273,26.0,23.8,26.2,v5 trend run
+4,56,273,20.5,23.8,20.2,v5 trend run
+6,78,273,28.6,33.3,28.2,v5 trend run
+8,82,273,30.0,33.3,29.8,v5 trend run
+9,82,273,30.0,28.6,30.2,v5 trend run
+10,84,273,30.8,28.6,31.0,v5 trend run

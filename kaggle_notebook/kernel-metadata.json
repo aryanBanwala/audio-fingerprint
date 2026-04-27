@@ -1,0 +1,16 @@
+{
+  "id": "aryanbanwala97/neuralfp-btp-smoke-test",
+  "title": "NeuralFP BTP Smoke Test",
+  "code_file": "smoke_test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "mimbres/neural-audio-fingerprint",
+    "aryanbanwala97/audio-fp-indian-music-btp"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
