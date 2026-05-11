@@ -46,8 +46,10 @@ kaggle_notebook/runs/
 kaggle_notebook/*/full_pipeline.ipynb
 kaggle_notebook/*/inference_trend.ipynb
 
-# Wandb API key (NEVER commit)
+# Secrets (NEVER commit)
 wandkey.txt
+**/kaggle.json
+colab/secrets/
 
 # Trained model checkpoints (large binary, regeneratable)
 models/
